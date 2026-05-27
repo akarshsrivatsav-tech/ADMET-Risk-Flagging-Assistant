@@ -75,12 +75,17 @@ pip install requests
  
 ---
 
-## ▶️ How to Run
+ ▶️ How to Run
 python main.py
 
 ---
 
-## 🧪 Example Inputs
+## 📸 Sample Outputs
+See the `screenshots/` folder for example runs.
+
+---
+
+ 🧪 Example Inputs
 Aspirin
 asprin
 Caffeine
@@ -88,8 +93,7 @@ Ibuprofen
 xyz
 
 ---
-
-## 📂 Project Structure
+ 📂 Project Structure
 project/
 │
 ├── main.py               # Entry point
@@ -101,7 +105,7 @@ project/
 
 ---
 
-## ⚠️ Assumptions
+ ⚠️ Assumptions
 Input is a valid molecule name
 
 PubChem API returns correct data
@@ -110,7 +114,7 @@ Focus is on lightweight screening (not deep chemistry)
 
 ---
 
-## 🚧 Limitations
+ 🚧 Limitations
 No deep ADMET prediction
 
 No SMILES validation engine
@@ -121,16 +125,16 @@ Dependent on PubChem API availability
 
 ---
 
-## 🔧 Technologies Used
+ 🔧 Technologies Used
 Python
 
 Requests library
-## 📸 Sample Outputs
+ 📸 Sample Outputs
 See the `screenshots/` folder for example runs.
 
 PubChem PUG REST API
 
 ---
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 Akarsh Srivatsav Pappala
