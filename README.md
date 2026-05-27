@@ -125,6 +125,8 @@ Dependent on PubChem API availability
 Python
 
 Requests library
+## 📸 Sample Outputs
+See the `screenshots/` folder for example runs.
 
 PubChem PUG REST API
 
